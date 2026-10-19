@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "1.0.0-beta.1",
-  "display_version": "vBeta 1.0",
+  "version": "1.0.0-beta.2",
+  "display_version": "vBeta 1.1",
   "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-1.0/DracoDesktop-Setup-vBeta-1.0.exe",
   "sha256": "21060ce11f4c180124fff772b52d49db9a6462d0a127fdb02d175a33001ef9ed",
   "notes": "Initial Draco Desktop vBeta 1.0 release."
