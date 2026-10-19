@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "version": "1.0.0-beta.5",
-  "display_version": "vBeta 1.4",
-  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-1.4/DracoDesktop-Setup-vBeta-1.4.exe",
-  "sha256": "5f97d9985f499dafb603f4f4a29dbf11ab32cdcbd4336dd2987926c1e2cf7142",
-  "notes": "Refined professional cold-neutral palette, softer primary buttons, better integrated panel titles, and fast updates preserving the existing Python/Qt runtime."
+  "version": "1.0.0-beta.6",
+  "display_version": "vBeta 1.5",
+  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-1.5/DracoDesktop-Setup-vBeta-1.5.exe",
+  "sha256": "23f03d6c55e6b725e095a133beab3ee67511d46ee9bbc5477087a75a32779b1f",
+  "notes": "Sticky COMSOL/Slurm header, improved submit-form spacing, console panels that cannot disappear accidentally, and a permanent Show/Hide consoles control."
 }
