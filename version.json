@@ -1,9 +1,8 @@
 {
   "schema": 1,
-  "version": "1.0.0-beta.3",
-  "display_version": "vBeta 1.2",
-  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-1.2/DracoDesktop-Setup-vBeta-1.2.exe",
-  "sha256": "89c7bc001f969e358fe84fe7a1acbda56eaac3f4ec0c7c674a155b38d6085414",
-  "notes": "New soft blue/lavender interface background, translucent light panels, blue/violet folder icons, softer consoles, and faster updates by preserving the existing Python/Qt runtime."
+  "version": "1.0.0-beta.4",
+  "display_version": "vBeta 1.3",
+  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-1.3/DracoDesktop-Setup-vBeta-1.3.exe",
+  "sha256": "ea06fc4dbba72d696abf7169f5d19fbb005d9ff3c25be18a826f54affb26c5f2",
+  "notes": "Slightly darker blue/lavender background, new Windows-like Draco folder icons, and fast updates preserving the existing Python/Qt runtime."
 }
-
