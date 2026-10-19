@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "1.0.0-beta.2",
-  "display_version": "vBeta 1.1",
-  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-1.1/DracoDesktop-Setup-vBeta-1.1.exe",
-  "sha256": "55fd3641a52319b26634916e463fdd799656d05e0332f157c2d945b5adf61330",
-  "notes": "Built-in automatic update channel, compact single-line Draco connection bar, and minor interface refinements."
+  "version": "1.0.0-beta.3",
+  "display_version": "vBeta 1.2",
+  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-1.2/DracoDesktop-Setup-vBeta-1.2.exe",
+  "sha256": "89c7bc001f969e358fe84fe7a1acbda56eaac3f4ec0c7c674a155b38d6085414",
+  "notes": "New soft blue/lavender interface background, translucent light panels, blue/violet folder icons, softer consoles, and faster updates by preserving the existing Python/Qt runtime."
 }
 
