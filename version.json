@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "version": "1.0.0-beta.7",
-  "display_version": "vBeta 1.6",
-  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-1.6/DracoDesktop-Setup-vBeta-1.6.exe",
-  "sha256": "2c169fe0bfb12780f6215bd14dd95bfbf7fdeeaace30be5ce8513031ebecd66a",
-  "notes": "New refined Draco icon, improved desktop/taskbar/window icon integration, and a broader visual polish pass with better margins, spacing, and layout balance."
+  "version": "1.0.0-beta.8",
+  "display_version": "vBeta 1.7",
+  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-1.7/DracoDesktop-Setup-vBeta-1.7.exe",
+  "sha256": "7d437e6dd355ce66ccb4aaa28faf920e113ca7b6837d63c3422ce76e039222b3",
+  "notes": "Final visual spacing and layout polish: improved margins, toolbars, Jobs filters, panel titles, console spacing, tables, and overall interface consistency."
 }
