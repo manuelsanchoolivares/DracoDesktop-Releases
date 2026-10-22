@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "version": "1.0.0-beta.9",
-  "display_version": "vBeta 1.8",
-  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-1.8/DracoDesktop-Setup-vBeta-1.8.exe",
-  "sha256": "72ed5fff91cf0e481ca82051ce0cb1ee2196c5164405984dd9f153ab9909929a",
-  "notes": "Automatic startup update checks, Help suggestion feedback, and optional Slurm email notifications when COMSOL jobs begin and end."
+  "version": "1.0.0-beta.10",
+  "display_version": "vBeta 1.9",
+  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-1.9/DracoDesktop-Setup-vBeta-1.9.exe",
+  "sha256": "9ffaa27e02d3921d99664503b45dac9547dff7a1c64dadead47a296bb20a2174",
+  "notes": "Improvement suggestions now open a pre-filled GitHub Issue instead of relying on a local email client."
 }
