@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "version": "1.0.0-beta.10",
-  "display_version": "vBeta 1.9",
-  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-1.9/DracoDesktop-Setup-vBeta-1.9.exe",
-  "sha256": "9ffaa27e02d3921d99664503b45dac9547dff7a1c64dadead47a296bb20a2174",
-  "notes": "Improvement suggestions now open a pre-filled GitHub Issue instead of relying on a local email client."
+  "version": "1.0.0-beta.11",
+  "display_version": "vBeta 2.0",
+  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.0/DracoDesktop-Setup-vBeta-2.0.exe",
+  "sha256": "8038d0e1cd3b6a31deff760da4af43e669208a4f65a27895f21040125c903f9e",
+  "notes": "First multi-software architecture release. COMSOL is now a managed software profile and Custom Slurm Job support has been added."
 }
