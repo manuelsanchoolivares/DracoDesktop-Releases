@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "version": "1.0.0-beta.15",
-  "display_version": "vBeta 2.4",
-  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.4/DracoDesktop-Setup-vBeta-2.4.exe",
-  "sha256": "b3ee8c6860e8003043265560bf86ec8d06dcb985bdc217f3a8c4051ee4a62883",
-  "notes": "New Cluster Advisor with hardware classification, job-aware node suitability, recommended candidates, corrected health states for unavailable nodes, and safer advanced node selection."
+  "version": "1.0.0-beta.17",
+  "display_version": "vBeta 2.5.1",
+  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.5.1/DracoDesktop-Setup-vBeta-2.5.1.exe",
+  "sha256": "dcc362855fb3d4ba6e9d97eaec45feed218d36503a710425c49d0cec45866d82",
+  "notes": "Added first-run guided onboarding and contextual per-tab help. The interactive Guide highlights the relevant UI areas and can be relaunched at any time from the new Guide menu."
 }
