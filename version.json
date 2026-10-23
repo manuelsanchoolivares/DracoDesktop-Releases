@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "version": "1.0.0-beta.13",
-  "display_version": "vBeta 2.2",
-  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.2/DracoDesktop-Setup-vBeta-2.2.exe",
-  "sha256": "91a8678b400f09803a12b49a972f447e9eaff8f953ea2608d2f7ffcb9f678d7d",
-  "notes": "New Software Management tab with automatic background discovery of Draco environment modules, software/version grouping, cached catalogue, search, integration status, and direct handoff to COMSOL or Generic Slurm workflows."
+  "version": "1.0.0-beta.14",
+  "display_version": "vBeta 2.3",
+  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.3/DracoDesktop-Setup-vBeta-2.3.exe",
+  "sha256": "70171c62360faa365804c08c8a7ccc83f27c6ff2013a4867ba5da142eb76ee21",
+  "notes": "New Cluster Monitor with near-real-time Slurm node status, CPU/RAM and job visibility, node health information, filtering, manual node selection and exclusion, and node-aware COMSOL preflight."
 }
