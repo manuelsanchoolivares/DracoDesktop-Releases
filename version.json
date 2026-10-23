@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "version": "1.0.0-beta.11",
-  "display_version": "vBeta 2.0",
-  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.0/DracoDesktop-Setup-vBeta-2.0.exe",
-  "sha256": "8038d0e1cd3b6a31deff760da4af43e669208a4f65a27895f21040125c903f9e",
-  "notes": "First multi-software architecture release. COMSOL is now a managed software profile and Custom Slurm Job support has been added."
+  "version": "1.0.0-beta.12",
+  "display_version": "vBeta 2.1",
+  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.1/DracoDesktop-Setup-vBeta-2.1.exe",
+  "sha256": "4250b4748ded1cd9b8b1a9c5bdeda00f04ca9351824dbc8ded25c2d95a80a3e9",
+  "notes": "New intelligent diagnostics and recovery layer: human-readable System Check results, bounded automatic retry on node-specific COMSOL/license failures, login-node license verification, and automatic login1/login2 SSH fallback during key setup."
 }
