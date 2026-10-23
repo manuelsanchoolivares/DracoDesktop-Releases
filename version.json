@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "version": "1.0.0-beta.14",
-  "display_version": "vBeta 2.3",
-  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.3/DracoDesktop-Setup-vBeta-2.3.exe",
-  "sha256": "70171c62360faa365804c08c8a7ccc83f27c6ff2013a4867ba5da142eb76ee21",
-  "notes": "New Cluster Monitor with near-real-time Slurm node status, CPU/RAM and job visibility, node health information, filtering, manual node selection and exclusion, and node-aware COMSOL preflight."
+  "version": "1.0.0-beta.15",
+  "display_version": "vBeta 2.4",
+  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.4/DracoDesktop-Setup-vBeta-2.4.exe",
+  "sha256": "b3ee8c6860e8003043265560bf86ec8d06dcb985bdc217f3a8c4051ee4a62883",
+  "notes": "New Cluster Advisor with hardware classification, job-aware node suitability, recommended candidates, corrected health states for unavailable nodes, and safer advanced node selection."
 }
