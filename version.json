@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "version": "1.0.0-beta.12",
-  "display_version": "vBeta 2.1",
-  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.1/DracoDesktop-Setup-vBeta-2.1.exe",
-  "sha256": "4250b4748ded1cd9b8b1a9c5bdeda00f04ca9351824dbc8ded25c2d95a80a3e9",
-  "notes": "New intelligent diagnostics and recovery layer: human-readable System Check results, bounded automatic retry on node-specific COMSOL/license failures, login-node license verification, and automatic login1/login2 SSH fallback during key setup."
+  "version": "1.0.0-beta.13",
+  "display_version": "vBeta 2.2",
+  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.2/DracoDesktop-Setup-vBeta-2.2.exe",
+  "sha256": "91a8678b400f09803a12b49a972f447e9eaff8f953ea2608d2f7ffcb9f678d7d",
+  "notes": "New Software Management tab with automatic background discovery of Draco environment modules, software/version grouping, cached catalogue, search, integration status, and direct handoff to COMSOL or Generic Slurm workflows."
 }
