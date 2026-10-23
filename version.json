@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "version": "1.0.0-beta.18",
-  "display_version": "vBeta 2.5.2",
-  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.5.2/DracoDesktop-Setup-vBeta-2.5.2.exe",
-  "sha256": "d57730a3a7acced9bd0c0fbc817f0f6a6f9b675774f6f7be8064e939a2042993",
-  "notes": "Installer reliability fix for in-place updates. Keeps the new guided onboarding from vBeta 2.5.1 while correcting file replacement during installation."
+  "version": "1.0.0-beta.19",
+  "display_version": "vBeta 2.5.3",
+  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.5.3/DracoDesktop-Setup-vBeta-2.5.3.exe",
+  "sha256": "e0faf2e50843d28ceb265bb4907ca90dd7018ec0cd6fe50108f4862fb8fd3d0b",
+  "notes": "Visual polish patch: wider Node details panel, improved text wrapping and tooltips, cleaner action spacing, and a better-sized Hide consoles control."
 }
