@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "version": "1.0.0-beta.19",
-  "display_version": "vBeta 2.5.3",
-  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.5.3/DracoDesktop-Setup-vBeta-2.5.3.exe",
-  "sha256": "e0faf2e50843d28ceb265bb4907ca90dd7018ec0cd6fe50108f4862fb8fd3d0b",
-  "notes": "Visual polish patch: wider Node details panel, improved text wrapping and tooltips, cleaner action spacing, and a better-sized Hide consoles control."
+  "version": "1.0.0-beta.20",
+  "display_version": "vBeta 2.5.4",
+  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.5.4/DracoDesktop-Setup-vBeta-2.5.4.exe",
+  "sha256": "5be2779891849160c6f1bed9cb20cdfb58b55883ed539d861eeb91572d9a3ae5",
+  "notes": "Fixes console panel resizing and corrects the Hide consoles control so it fits cleanly inside the status bar."
 }
