@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "version": "1.0.0-beta.21",
-  "display_version": "vBeta 2.6.0",
-  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.6.0/DracoDesktop-Setup-1.0.0-beta.21.exe",
-  "sha256": "3af9884c41a0b4e540feaa6c95d094053dab0e2e8d815b982aead2bcb24c9bca",
-  "notes": "New installer, access requests with a 7-day trial, Account > User info, automatic update notices, clearer error messages and many reliability and security fixes."
+  "version": "1.0.0-beta.22",
+  "display_version": "vBeta 2.6.1",
+  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.6.1/DracoDesktop-Setup-1.0.0-beta.22.exe",
+  "sha256": "c9f4ad5f7a9069466c51bbfe7db2c14231ad922c29c9cfcf42f20cbb0c00a1de",
+  "notes": "Fixes errors in vBeta 2.6.0 that stopped COMSOL runs after the preflight check and interrupted file transfers. If a COMSOL run did not start, run it again after updating."
 }
