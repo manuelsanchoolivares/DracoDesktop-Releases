@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "version": "1.0.0-beta.22",
-  "display_version": "vBeta 2.6.1",
-  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.6.1/DracoDesktop-Setup-1.0.0-beta.22.exe",
-  "sha256": "c9f4ad5f7a9069466c51bbfe7db2c14231ad922c29c9cfcf42f20cbb0c00a1de",
-  "notes": "Fixes errors in vBeta 2.6.0 that stopped COMSOL runs after the preflight check and interrupted file transfers. If a COMSOL run did not start, run it again after updating."
+  "version": "1.0.0-beta.23",
+  "display_version": "vBeta 2.6.2",
+  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.6.2/DracoDesktop-Setup-1.0.0-beta.23.exe",
+  "sha256": "98cb05cd261be10a7219f5d7da337edc36a977bbfcf4bed5859cd059a0d70dc6",
+  "notes": "Updates now install in the background: Draco Desktop downloads new versions while you work and installs them in a few seconds when you restart or close the app."
 }
