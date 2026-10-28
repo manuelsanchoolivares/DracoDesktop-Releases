@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "version": "1.0.0-beta.24",
-  "display_version": "vBeta 2.6.3",
-  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.6.3/DracoDesktop-Setup-1.0.0-beta.24.exe",
-  "sha256": "25ed964cb1a7434e4bf9837de59e838a81c18f25e1c5a16736b7f0ef5249c796",
-  "notes": "New software profiles (MATLAB, Python, Julia, Mathematica, Lumerical FDTD) and recommended CPUs/RAM/time for each program."
+  "version": "1.0.0-beta.25",
+  "display_version": "vBeta 2.6.4",
+  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.6.4/DracoDesktop-Setup-1.0.0-beta.25.exe",
+  "sha256": "d25b5dfdf7707873a09db65832f5d5b1bbeb9051baa52845ecb2bd3edc145cf9",
+  "notes": "When a job fails, you can now send an error report to the developer (logs and, if small, the input file) so the problem can be fixed in a future update."
 }
