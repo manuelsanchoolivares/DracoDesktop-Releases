@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "version": "1.0.0-beta.25",
-  "display_version": "vBeta 2.6.4",
-  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.6.4/DracoDesktop-Setup-1.0.0-beta.25.exe",
-  "sha256": "d25b5dfdf7707873a09db65832f5d5b1bbeb9051baa52845ecb2bd3edc145cf9",
-  "notes": "When a job fails, you can now send an error report to the developer (logs and, if small, the input file) so the problem can be fixed in a future update."
+  "version": "1.0.0-beta.26",
+  "display_version": "vBeta 2.6.5",
+  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.6.5/DracoDesktop-Setup-1.0.0-beta.26.exe",
+  "sha256": "c327838abe0be9e11c1ba70d05939013cf44a7e2beeeb7985e002810a5b937f8",
+  "notes": "Clearer job messages: the Jobs tab explains in plain words why a job is waiting or why it stopped and what to do next. Jobs that run out of memory can be retried with more RAM."
 }
