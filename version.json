@@ -1,8 +1,8 @@
 {
-  "schema": 1,
-  "version": "1.0.0-beta.26",
-  "display_version": "vBeta 2.6.5",
-  "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.6.5/DracoDesktop-Setup-1.0.0-beta.26.exe",
-  "sha256": "c327838abe0be9e11c1ba70d05939013cf44a7e2beeeb7985e002810a5b937f8",
-  "notes": "Clearer job messages: the Jobs tab explains in plain words why a job is waiting or why it stopped and what to do next. Jobs that run out of memory can be retried with more RAM."
+    "schema":  1,
+    "version":  "1.0.0-beta.27",
+    "display_version":  "vBeta 2.7.0",
+    "installer_url":  "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.7.0/DracoDesktop-Setup-1.0.0-beta.27.exe",
+    "sha256":  "6cff862f844bd71440dfb0bcfca096cf02b35edb17522ab9885b54dcccd4953a",
+    "notes":  "Redesigned interface: new theme with dark mode (View menu), live cluster map, Home page, guided 3-step job submission, Jobs timeline, Files space map with drag-and-drop upload, software cards, toasts and a shell-like command console. Opening huge folders can now be cancelled. Not code-signed yet."
 }
