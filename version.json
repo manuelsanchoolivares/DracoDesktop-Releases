@@ -1,8 +1,8 @@
 {
     "schema":  1,
-    "version":  "1.0.0-beta.27",
-    "display_version":  "vBeta 2.7.0",
-    "installer_url":  "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.7.0/DracoDesktop-Setup-1.0.0-beta.27.exe",
-    "sha256":  "6cff862f844bd71440dfb0bcfca096cf02b35edb17522ab9885b54dcccd4953a",
-    "notes":  "Redesigned interface: new theme with dark mode (View menu), live cluster map, Home page, guided 3-step job submission, Jobs timeline, Files space map with drag-and-drop upload, software cards, toasts and a shell-like command console. Opening huge folders can now be cancelled. Not code-signed yet."
+    "version":  "1.0.0-beta.28",
+    "display_version":  "vBeta 2.8.0",
+    "installer_url":  "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.8.0/DracoDesktop-Setup-1.0.0-beta.28.exe",
+    "sha256":  "5c8e15eb0d98729898dd1dab3d8e17ee5d27e4d1ae542d8d8cbe1ccf2c629fea",
+    "notes":  "Sign in with your e-mail address (up to 5 computers at the same time). Usage statistics tied to your account, which you can turn off in the Account menu. Remote text editing of files, editable Slurm script preview, hardware and partition info tooltips, and readable job e-mails. Not code-signed yet."
 }
