@@ -1,8 +1,8 @@
 {
     "schema":  1,
-    "version":  "1.0.0-beta.28",
-    "display_version":  "vBeta 2.8.0",
-    "installer_url":  "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.8.0/DracoDesktop-Setup-1.0.0-beta.28.exe",
-    "sha256":  "5c8e15eb0d98729898dd1dab3d8e17ee5d27e4d1ae542d8d8cbe1ccf2c629fea",
-    "notes":  "Sign in with your e-mail address (up to 5 computers at the same time). Usage statistics tied to your account, which you can turn off in the Account menu. Remote text editing of files, editable Slurm script preview, hardware and partition info tooltips, and readable job e-mails. Not code-signed yet."
+    "version":  "1.0.0-beta.29",
+    "display_version":  "vBeta 2.8.1",
+    "installer_url":  "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.8.1/DracoDesktop-Setup-1.0.0-beta.29.exe",
+    "sha256":  "6e11dd157fd3867ff3741141c48bbfff33bf674e4fc3c0db13a7a2dca4ebfff1",
+    "notes":  "New application icon (window, taskbar, shortcuts, installer and About dialog). Includes everything in 2.8.0: sign in with your e-mail address (up to 5 computers at the same time), usage statistics tied to your account that you can turn off in the Account menu, remote text editing, editable Slurm script preview, hardware and partition info tooltips and readable job e-mails. Not code-signed yet."
 }
