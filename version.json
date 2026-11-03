@@ -1,8 +1,8 @@
 {
     "schema":  1,
-    "version":  "1.0.0-beta.29",
-    "display_version":  "vBeta 2.8.1",
-    "installer_url":  "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.8.1/DracoDesktop-Setup-1.0.0-beta.29.exe",
-    "sha256":  "6e11dd157fd3867ff3741141c48bbfff33bf674e4fc3c0db13a7a2dca4ebfff1",
-    "notes":  "New application icon (window, taskbar, shortcuts, installer and About dialog). Includes everything in 2.8.0: sign in with your e-mail address (up to 5 computers at the same time), usage statistics tied to your account that you can turn off in the Account menu, remote text editing, editable Slurm script preview, hardware and partition info tooltips and readable job e-mails. Not code-signed yet."
+    "version":  "1.0.0-beta.30",
+    "display_version":  "vBeta 2.8.2",
+    "installer_url":  "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.8.2/DracoDesktop-Setup-1.0.0-beta.30.exe",
+    "sha256":  "bb0fb4eaa6eceea181b01cdad9d4d696f9a3e1f0eddffa5129c5c0a14abab84c",
+    "notes":  "The program is now called HPC Desktop in shortcuts and in Installed apps (old Draco Desktop shortcuts are replaced). New animated dragon next to the greeting on the Home page. New application icon, refreshed in Windows when installing. Includes everything in 2.8.0: sign in with your e-mail address (up to 5 computers at the same time), usage statistics tied to your account that you can turn off in the Account menu, remote text editing, editable Slurm script preview, hardware and partition info tooltips and readable job e-mails. Not code-signed yet."
 }
