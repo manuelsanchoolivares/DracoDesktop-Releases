@@ -1,8 +1,8 @@
 {
-    "schema":  1,
-    "version":  "1.0.0-beta.31",
-    "display_version":  "vBeta 2.9.0",
-    "installer_url":  "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.9.0/DracoDesktop-Setup-1.0.0-beta.31.exe",
-    "sha256":  "a47b5b2f269e089ee6e1ef5f024cdc4617315c993d7fb5ad49d4ea4d0ae7e1a4",
-    "notes":  "Files: drag and drop in both directions (PC to cluster and back), drag folders into other folders, pin favourite folders in the tree, and the transfer bar clears itself when finished. Jobs: a live submission state between "Run on Draco" and the job appearing, the estimated finish time on each job card, and a guide for continuing the work after a time limit. Custom Slurm: write or load your own Slurm script with line numbers, snippets, templates and a designer, a check for repeated, wrong or missing items (with an optional test on Draco), your own files, and step 2 locked to the script until you unlock it. Mouse wheel no longer changes drop-downs or number boxes while scrolling a page. Not code-signed yet."
+    "schema": 1,
+    "version": "1.0.0-beta.31",
+    "display_version": "vBeta 2.9.0",
+    "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.9.0/DracoDesktop-Setup-1.0.0-beta.31.exe",
+    "sha256": "a47b5b2f269e089ee6e1ef5f024cdc4617315c993d7fb5ad49d4ea4d0ae7e1a4",
+    "notes": "Files: drag and drop in both directions (PC to cluster and back), drag folders into other folders, pin favourite folders in the tree, and the transfer bar clears itself when finished. Jobs: a live submission state between Run on Draco and the job appearing, the estimated finish time on each job card, and a guide for continuing the work after a time limit. Custom Slurm: write or load your own Slurm script with line numbers, snippets, templates and a designer, a check for repeated, wrong or missing items (with an optional test on Draco), your own files, and step 2 locked to the script until you unlock it. Mouse wheel no longer changes drop-downs or number boxes while scrolling a page. Not code-signed yet."
 }
