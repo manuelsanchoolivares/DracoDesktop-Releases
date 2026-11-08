@@ -1,8 +1,8 @@
 {
     "schema": 1,
-    "version": "1.0.0-beta.31",
-    "display_version": "vBeta 2.9.0",
-    "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.9.0/DracoDesktop-Setup-1.0.0-beta.31.exe",
-    "sha256": "a47b5b2f269e089ee6e1ef5f024cdc4617315c993d7fb5ad49d4ea4d0ae7e1a4",
-    "notes": "Files: drag and drop in both directions (PC to cluster and back), drag folders into other folders, pin favourite folders in the tree, and the transfer bar clears itself when finished. Jobs: a live submission state between Run on Draco and the job appearing, the estimated finish time on each job card, and a guide for continuing the work after a time limit. Custom Slurm: write or load your own Slurm script with line numbers, snippets, templates and a designer, a check for repeated, wrong or missing items (with an optional test on Draco), your own files, and step 2 locked to the script until you unlock it. Mouse wheel no longer changes drop-downs or number boxes while scrolling a page. Not code-signed yet."
+    "version": "1.0.0-beta.32",
+    "display_version": "vBeta 2.10.0",
+    "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.10.0/DracoDesktop-Setup-1.0.0-beta.32.exe",
+    "sha256": "ddab2523bc65b550610d0442c2da0eb990a6fc8a8952a5312981159fb83a76a4",
+    "notes": "New look and navigation: a flat, neutral \"Workbench\" style (white page in the light theme, thin lines, one blue accent, line icons) and no animated backgrounds. Home has round buttons for Submit, Jobs, Files and Cluster that settle into a left rail on the other pages; Software now lives inside Cluster and storage inside Files. The window has its own top row with the menus and the window buttons, and keeps Windows moving, resizing and snapping. Guided tour rewritten in seven sections, with a spotlight on the control being explained; the Submit section walks through every field of the job form. This is the first release with its own window frame: if moving or resizing misbehaves on your screen, please tell us. Not code-signed yet."
 }
