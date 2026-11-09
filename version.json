@@ -1,8 +1,8 @@
 {
     "schema": 1,
-    "version": "1.0.0-beta.32",
-    "display_version": "vBeta 2.10.0",
-    "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.10.0/DracoDesktop-Setup-1.0.0-beta.32.exe",
-    "sha256": "ddab2523bc65b550610d0442c2da0eb990a6fc8a8952a5312981159fb83a76a4",
-    "notes": "New look and navigation: a flat, neutral \"Workbench\" style (white page in the light theme, thin lines, one blue accent, line icons) and no animated backgrounds. Home has round buttons for Submit, Jobs, Files and Cluster that settle into a left rail on the other pages; Software now lives inside Cluster and storage inside Files. The window has its own top row with the menus and the window buttons, and keeps Windows moving, resizing and snapping. Guided tour rewritten in seven sections, with a spotlight on the control being explained; the Submit section walks through every field of the job form. This is the first release with its own window frame: if moving or resizing misbehaves on your screen, please tell us. Not code-signed yet."
+    "version": "1.0.0-beta.33",
+    "display_version": "vBeta 2.11.0",
+    "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.11.0/DracoDesktop-Setup-1.0.0-beta.33.exe",
+    "sha256": "c39731c737ddf06b45da14031983474f9eee2b82173c6111c4aa58a8f2e3259c",
+    "notes": "Starting sooner, and never waiting for nothing. Select a job that is waiting in the queue and Jobs now shows where it stands: when Slurm expects to start it, its place in the queue, which computers could take it right now and what stops it (free CPUs scattered over many computers, too little RAM, computers kept for jobs ahead, a maintenance window), and how long similar jobs waited recently. \"Start sooner...\" can lower its time limit or add a partition without losing its place in the queue, if Draco allows it. Before sending, step 2 of Submit has \"When would it start?\": it asks Slurm for its own estimate (nothing is sent) and shows what a shorter time limit, fewer CPUs or one more partition would change. The app also suggests a time limit from your earlier runs of the same model, and warns when the limit is longer than the partition allows, which Slurm would accept and then keep waiting for ever. You can now name several partitions, for example standard,short. The cluster map shows computers that Slurm keeps for waiting jobs as \"Held\" instead of free, and Home and Cluster show how many jobs are waiting. These features were checked against simulated Slurm output, not yet on the real Draco: if a panel looks wrong or empty, please tell us. Not code-signed yet."
 }
