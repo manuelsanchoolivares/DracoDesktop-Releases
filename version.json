@@ -1,8 +1,8 @@
 {
     "schema": 1,
-    "version": "1.0.0-beta.35",
-    "display_version": "vBeta 2.12.1",
-    "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.12.1/DracoDesktop-Setup-1.0.0-beta.35.exe",
-    "sha256": "9c759317b8eb32df153bcc26ed3996ffcb0d1c3cd943211de5d7642465f40f27",
-    "notes": "Fixes the black window. With two monitors (typical in a Remote Desktop session), a maximised window that was minimised and then brought back could come back completely black and could not be recovered, because its content was being placed on the other monitor. It now stays on its own monitor, and if Windows ever puts it somewhere else the window puts itself right. Nothing else changes. Not code-signed yet."
+    "version": "1.0.0-beta.37",
+    "display_version": "vBeta 2.13.0",
+    "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.13.0/DracoDesktop-Setup-1.0.0-beta.37.exe",
+    "sha256": "f9e127591f328ff616a374c5312c2537a96b3dde00035f1f369d391488554dfb",
+    "notes": "Cluster > Queue is now a plan instead of a ranking. Draco starts a job as soon as it fits, so a small job often goes ahead of a bigger one that has waited longer; the list now shows when Slurm plans to start each job, in bands of time, and what is planned before it (the numbered order by priority is still there, labelled as such). Your own jobs are tinted, in bold and marked with a bar, and the partitions and time bands where you have jobs are lit. The parts of the page (your jobs, the list, what is not in line) can be stretched with the dividers and the columns widened; the place is remembered. Also fixes the panel in Jobs that shows where a waiting job stands (it never filled in since 2.12.0), and a job the cluster could not start and held is shown as \"Failed to start\" with what to do (cancel it and submit again). Not code-signed yet."
 }
