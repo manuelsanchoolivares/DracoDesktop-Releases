@@ -1,8 +1,8 @@
 {
     "schema": 1,
-    "version": "1.0.0-beta.37",
-    "display_version": "vBeta 2.13.0",
-    "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.13.0/DracoDesktop-Setup-1.0.0-beta.37.exe",
-    "sha256": "f9e127591f328ff616a374c5312c2537a96b3dde00035f1f369d391488554dfb",
-    "notes": "Cluster > Queue is now a plan instead of a ranking. Draco starts a job as soon as it fits, so a small job often goes ahead of a bigger one that has waited longer; the list now shows when Slurm plans to start each job, in bands of time, and what is planned before it (the numbered order by priority is still there, labelled as such). Your own jobs are tinted, in bold and marked with a bar, and the partitions and time bands where you have jobs are lit. The parts of the page (your jobs, the list, what is not in line) can be stretched with the dividers and the columns widened; the place is remembered. Also fixes the panel in Jobs that shows where a waiting job stands (it never filled in since 2.12.0), and a job the cluster could not start and held is shown as \"Failed to start\" with what to do (cancel it and submit again). Not code-signed yet."
+    "version": "1.0.0-beta.41",
+    "display_version": "vBeta 2.14.2",
+    "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.14.2/DracoDesktop-Setup-1.0.0-beta.41.exe",
+    "sha256": "b801fbe4d61ab99b037bb6cb75ef61ab04019db9ba17710ad5957c0905a8a726",
+    "notes": "New \"What to expect\" card when you prepare a job and on a waiting job: how long jobs like yours really waited on Draco lately (about half start before a given time; the slow case in the small print), read from the partition's recent history and kept on this computer. If you already use all the computers one person may use at once, it says so before you send. A waiting job is told that keeping its place costs nothing. Slurm's planned start, which assumes every job runs to its full time limit and is often days too late, has moved to Technical details, and the \"When would it start?\" button and the orange \"no node can take this right now\" banner are gone: they pushed people to ask for less RAM or time than their run needs. A COMSOL job's check on a compute node is now remembered for a week instead of an hour. Not code-signed yet."
 }
