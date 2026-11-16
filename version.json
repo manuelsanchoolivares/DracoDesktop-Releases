@@ -1,8 +1,8 @@
 {
     "schema": 1,
-    "version": "1.0.0-beta.41",
-    "display_version": "vBeta 2.14.2",
-    "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.14.2/DracoDesktop-Setup-1.0.0-beta.41.exe",
-    "sha256": "b801fbe4d61ab99b037bb6cb75ef61ab04019db9ba17710ad5957c0905a8a726",
-    "notes": "New \"What to expect\" card when you prepare a job and on a waiting job: how long jobs like yours really waited on Draco lately (about half start before a given time; the slow case in the small print), read from the partition's recent history and kept on this computer. If you already use all the computers one person may use at once, it says so before you send. A waiting job is told that keeping its place costs nothing. Slurm's planned start, which assumes every job runs to its full time limit and is often days too late, has moved to Technical details, and the \"When would it start?\" button and the orange \"no node can take this right now\" banner are gone: they pushed people to ask for less RAM or time than their run needs. A COMSOL job's check on a compute node is now remembered for a week instead of an hour. Not code-signed yet."
+    "version": "1.0.0-beta.46",
+    "display_version": "vBeta 2.16.3",
+    "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-2.16.3/DracoDesktop-Setup-1.0.0-beta.46.exe",
+    "sha256": "f348b22e5efdd47155713a3db7e0dbfb1019abfa26bf4cb06ab7f93610c260d1",
+    "notes": "Several jobs at once, and quieter updates. In Submit, COMSOL now has \"One model / Several models\": add several .mph files, give every model the same CPUs, RAM and time (or change a row to give one model its own), check each job's run folder and job name, and send them all with one button; they go one after another with a single COMSOL check, and a job that cannot be sent stays in a list with the reason. \"Add to list\" on the last step keeps any job (any software) to send later together with others. The Jobs page now shows the job you sent last on top, and Cluster > Queue opens on the busiest partition when you have nothing waiting. From this version on, updates download in the background with a thin green bar in the status bar and are installed when you close the app (or right away with \"Restart now\"), without interrupting you. Not code-signed yet."
 }
