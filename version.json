@@ -1,8 +1,8 @@
 {
     "schema": 1,
-    "version": "1.0.0-beta.49",
-    "display_version": "vBeta 3.1.0",
-    "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-3.1.0/DracoDesktop-Setup-1.0.0-beta.49.exe",
-    "sha256": "3a3030ba2082e5b73754226f24e67ab069490ba25eabbc121a7ae12be2ac1ac4",
-    "notes": "Python and other script software can now take arguments, send the whole project folder and ask for GPUs; for Python you choose the environment and the app checks that your script's packages are there before sending. Download results works again for folders: they come over one ssh connection with names made safe for Windows, and a notice tells you when the download has finished. The log window shows the whole log (the last 20 MB of a very big one), opens at the end, has Start, End and Refresh buttons and updates itself every 10 seconds without blocking the app. The short COMSOL test now runs once a month instead of once a week, again only when a job fails because of COMSOL or its license, and Submit and Jobs explain in plain words what it is doing and why. Not code-signed yet."
+    "version": "1.0.0-beta.50",
+    "display_version": "vBeta 3.2.0",
+    "installer_url": "https://github.com/manuelsanchoolivares/DracoDesktop-Releases/releases/download/vBeta-3.2.0/DracoDesktop-Setup-1.0.0-beta.50.exe",
+    "sha256": "89f22e8351200038d87194db02a1f26654d87cbe0d19af2ce6c814c19173da82",
+    "notes": "Jobs now also lists your jobs started outside the app (for example with sbatch in a terminal), read from Slurm: the last 7 days by default, up to a year, with their state, resources, folder and output, and you can cancel them. A COMSOL run now counts as finished only when COMSOL's log says it finished: a run that stops early (for example when the connection to the license server is lost) shows \"Did not finish\" or \"Stopped: license lost\" with where it stopped, instead of \"Finished\", and a notice tells you on any page. A Job log button beside Download results opens the job's log and keeps it updating, and the log window can search the file (Ctrl+F). COMSOL is now told how many cores Slurm gave the job, and a new opt-in setting under Advanced lets COMSOL use a batch license (off by default). Not code-signed yet."
 }
